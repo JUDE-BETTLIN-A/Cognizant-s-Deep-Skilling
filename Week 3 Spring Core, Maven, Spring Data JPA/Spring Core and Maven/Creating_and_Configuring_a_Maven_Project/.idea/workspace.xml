@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2be872b0-ba56-4e02-a9be-e188ed51c265" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Configuring a Basic Spring Application/LibraryManagement/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Configuring a Basic Spring Application/LibraryManagement/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Configuring a Basic Spring Application/LibraryManagement/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Configuring a Basic Spring Application/LibraryManagement/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Configuring a Basic Spring Application/LibraryManagement/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Configuring a Basic Spring Application/LibraryManagement/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Configuring a Basic Spring Application/LibraryManagement/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Configuring a Basic Spring Application/LibraryManagement/src/main/java/org/example/repository/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Configuring a Basic Spring Application/LibraryManagement/src/main/java/org/example/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Configuring a Basic Spring Application/LibraryManagement/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Configuring a Basic Spring Application/LibraryManagement/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/library/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/library/aspect/LoggingAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/library/repository/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/library/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/library/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Implementing_Dependency_Injection/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Implementing_Dependency_Injection/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Implementing_Dependency_Injection/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Implementing_Dependency_Injection/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Implementing_Dependency_Injection/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Implementing_Dependency_Injection/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Implementing_Dependency_Injection/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Implementing_Dependency_Injection/src/main/java/org/example/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Implementing_Dependency_Injection/src/main/java/org/example/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Implementing_Dependency_Injection/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Implementing_Dependency_Injection/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Implementing_Logging_with_Spring_AOP/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Implementing_Logging_with_Spring_AOP/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Implementing_Logging_with_Spring_AOP/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Implementing_Logging_with_Spring_AOP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Implementing_Logging_with_Spring_AOP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Implementing_Logging_with_Spring_AOP/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Implementing_Logging_with_Spring_AOP/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Implementing_Logging_with_Spring_AOP/src/main/java/org/example/aspect/LoggingAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Implementing_Logging_with_Spring_AOP/src/main/java/org/example/repository/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Implementing_Logging_with_Spring_AOP/src/main/java/org/example/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Implementing_Logging_with_Spring_AOP/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Implementing_Logging_with_Spring_AOP/src/test/java/org/example/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2zMwCM8ccIoVRj1b0Ve0Ipe7Pyc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/judeb/Desktop/Cognizant's Deep Skilling/Week 3 Spring Core, Maven, Spring Data JPA/Spring Core and Maven/Creating_and_Configuring_a_Maven_Project"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2be872b0-ba56-4e02-a9be-e188ed51c265" name="Changes" comment="" />
+      <created>1751554126540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751554126540</updated>
+    </task>
+    <servers />
+  </component>
+</project>
