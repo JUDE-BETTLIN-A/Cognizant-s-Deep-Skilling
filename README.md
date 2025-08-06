@@ -6,7 +6,7 @@ This repository contains the mandatory assignments submitted as part of the Cogn
 Each folder is organized by given task and showcasing practical implementation and version control skills.
 
 ✔ Covers:  
-├── Week01_Engineering Concepts/
+├ Week01_Engineering Concepts/
 ├── Week02_PL-SQL, JUnit, Mockito and SL4J/
 ├── Week03_Spring Core, Maven, Spring Data JPA/
 ├── Week04_Spring REST using Spring Boot/
