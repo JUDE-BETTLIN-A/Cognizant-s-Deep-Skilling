@@ -1,6 +1,6 @@
 Cognizant Digital Nurture 4.0 - Java FSE Assignments  
-Name: Jude Bettlin  
-Superset ID: 6408325  
+• Name: Jude Bettlin  
+• Superset ID: 6408325  
 
 This repository contains the mandatory assignments submitted as part of the Cognizant Digital Nurture 4.0 Java FSE program, covering hands-on labs and exercises from Week 1 to Week 8.  
 Each folder is organized by given task and showcasing practical implementation and version control skills.
