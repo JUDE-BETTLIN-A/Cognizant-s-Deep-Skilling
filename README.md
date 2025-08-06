@@ -1,4 +1,5 @@
 Cognizant Digital Nurture 4.0 - Java FSE Assignments  
+
 • Name: Jude Bettlin  
 • Superset ID: 6408325  
 
@@ -22,7 +23,5 @@ Each folder is organized by given task and showcasing practical implementation a
 • Week07_React
 
 • Week08_GIT
-
-• README.md
 
 Each folder reflects a specific lab task or use case completed during 8 Weeks of the training.
