@@ -14,6 +14,6 @@ Each folder is organized by given task and showcasing practical implementation a
 ├── Week06_React/
 ├── Week07_React/
 ├── Week08_GIT/
-└── README.md
+├── README.md
 
 Each folder reflects a specific lab task or use case completed during 8 Weeks of the training.
